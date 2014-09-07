@@ -1,4 +1,4 @@
-What is Big Data Blog Here.
+[What is Big Data?](http://web20.nixonpeabody.com/lifesciences/Lists/Posts/Post.aspx?ID=27&Name=What%20is%20Big%20Data%3f).
 
 I have clients that work with what I consider to be Big Data. Recently, one of those clients was asked: [“What the hell is [B]ig [D]ata, anyway?”](http://digboston.com/boston-news-opinions/2014/06/infomassachusetts-the-way-we-all-get-where-were-going-is-about-to-change/) and he replied “Nobody knows what it means.” Challenge accepted.
 
